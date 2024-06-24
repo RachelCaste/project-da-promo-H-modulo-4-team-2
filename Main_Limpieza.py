@@ -18,7 +18,9 @@ from src import Soporte_Limpieza as sp
 
 #%%
 #0. Traemos el csv original
-df=sp.read_csv('finanzas-hotel-bookings.csv')
+url= "https://raw.githubusercontent.com/RachelCaste/project-da-promo-H-modulo-4-team-2/main/src/finanzas-hotel-bookings.csv"
+df=sp.read_csv(url)
+
 
 #%%
 #1. Llamamos ala función para el EDA

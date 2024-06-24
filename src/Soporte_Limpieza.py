@@ -12,8 +12,8 @@ pd.set_option('display.max_columns', None)
 
 #%%
 #Función para leer el csv original
-def read_csv(file):
-    df=pd.read_csv(file, index_col=0)
+def read_csv(link):
+    df=pd.read_csv(link, index_col=0)
     return df
 
 #%%
