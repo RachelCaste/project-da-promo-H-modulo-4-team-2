@@ -103,6 +103,14 @@ _ _ _
           </table>
 </details>
 
+</br>
+<details>
+  <summary> Intrucciones ejecución:</summary>
+  </br>
+  <p> Para ver la información del proyecto lo haremos desde la página web <a href="https://raw.githubusercontent.com/RachelCaste/project-da-promo-H-modulo-4-team-2/main/Infinite_insights/index.html"> index. </a>
+  <p> Una vez abierta la página podemos navegar para poder ver los ditintos apartados.</p>
+</details>
+
 ### Personas del Equipo
 
 
@@ -119,6 +127,7 @@ _ _ _
 ### Herramnientas utilizadas:
 
     Python
+    Visual Studio Code
     Power BI
     Github
     Slack
