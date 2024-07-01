@@ -58,7 +58,7 @@ _ _ _
 
 </br>
 <details>
-  <summary> Diccionario de datos proyecto:</summary>
+  <summary> Diccionario de datos proyecto</summary>
   </br>
         <table>
             <thead>
@@ -103,9 +103,8 @@ _ _ _
           </table>
 </details>
 
-</br>
 <details>
-  <summary> Intrucciones ejecución:</summary>
+  <summary> Intrucciones ejecución</summary>
   </br>
   <p> Para ver la página web del proyecto, nos descargamos el fichero comprimido (Infinite_insights.rar), lo descomprimimos en local. Entrando en la carpeta del proyecto Infinite_insights hacemos doble clic sobre el fichero index.html, a partir de ahi podemos navegar por todas las opciones de la página. </p>
 </details>
