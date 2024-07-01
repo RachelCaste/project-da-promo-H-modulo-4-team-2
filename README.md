@@ -107,8 +107,7 @@ _ _ _
 <details>
   <summary> Intrucciones ejecución:</summary>
   </br>
-  <p> Para ver la información del proyecto lo haremos desde la página web <a href="https://raw.githubusercontent.com/RachelCaste/project-da-promo-H-modulo-4-team-2/main/Infinite_insights/index.html"> index. </a>
-  <p> Una vez abierta la página podemos navegar para poder ver los ditintos apartados.</p>
+  <p> Para ver la página web del proyecto, nos descargamos el fichero comprimido (Infinite_insights.rar), lo descomprimimos en local. Entrando en la carpeta del proyecto Infinite_insights hacemos doble clic sobre el fichero index.html, a partir de ahi podemos navegar por todas las opciones de la página. </p>
 </details>
 
 ### Personas del Equipo
